@@ -56,8 +56,14 @@
   img: /images/10.jpg
   desc: 国庆和你，双喜临门
 
-- name: 2020年12月 苏州
+- name: 2021年1月 苏州
   gh_user: ArvatoSystems
   repo: FaceApiWPF
-  img: /images/20.12.jpg
-  desc: 圣诞和我，都要来啦~
+  img: /images/21_1.jpg
+  desc: 别来无恙~ 你在心上
+
+- name: 2021年2月 池州
+  gh_user: ArvatoSystems
+  repo: FaceApiWPF
+  img: /images/21_2.jpg
+  desc: 过年好~
