@@ -1,0 +1,63 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: 2019年11月 苏州
+  gh_user: tzuehlke
+  repo: DebugContainer
+  img: /images/12.jpg
+  desc: 金风玉露一相逢，便胜却人间无数
+
+- name: 2020年1月 北京
+  gh_user: tzuehlke
+  repo: jekyll-uno-timeline
+  img: /images/1.jpg
+  desc: 最美的风景不过是北京的初雪，还有你
+
+- name: 2020年1月 苏州
+  gh_user: tzuehlke
+  repo: scripts
+  img: /images/2.jpg
+  desc: 我真想拉起你的手，逃向初晴的天空和田野，不畏缩也不回顾
+
+- name: 2020年3月 苏州
+  gh_user: ArvatoSystems
+  repo: FaceApiWPF
+  img: /images/3.jpg
+  desc: 生日快乐~ 
+
+- name: 2020年5月 苏州
+  gh_user: ArvatoSystems
+  repo: FaceApiWPF
+  img: /images/5.jpg
+  desc: 你像是我在人间发现的宝藏
+
+- name: 2020年7月 重庆
+  gh_user: ArvatoSystems
+  repo: FaceApiWPF
+  img: /images/6.jpg
+  desc: 那个夏天，火辣的不只是重庆，
+        还有你
+
+- name: 2020年7月 成都
+  gh_user: ArvatoSystems
+  repo: FaceApiWPF
+  img: /images/7.jpg
+  desc: 熊猫是国宝，而你是我的宝
+
+- name: 2020年7月 哈尔滨
+  gh_user: ArvatoSystems
+  repo: FaceApiWPF
+  img: /images/8.JPG
+  desc: 我不仅要住进你的家里，还要住进你的心里
+
+- name: 2020年10月 苏州
+  gh_user: ArvatoSystems
+  repo: FaceApiWPF
+  img: /images/10.jpg
+  desc: 国庆和你，双喜临门
+
+- name: 2020年12月 苏州
+  gh_user: ArvatoSystems
+  repo: FaceApiWPF
+  img: /images/20.12.jpg
+  desc: 圣诞和我，都要来啦~
